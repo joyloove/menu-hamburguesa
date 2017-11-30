@@ -1,0 +1,40 @@
+body{
+  background-color: lightgrey;
+  font-family: 'Pacifico', cursive;
+}
+
+button{
+  width: 80px;
+}
+
+hr{
+  border: solid #f400a1 2px;
+}
+nav{
+  display: none;
+  width: 60%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  width: 100%;
+  font-size: 25px;
+}
+
+li:hover{
+  color: #aeffff;
+}
+
+a:hover{
+  color: #aeffff;
+  text-decoration: none;
+}
+
+.mostrarMenu{
+ display: inline-block;
+}
